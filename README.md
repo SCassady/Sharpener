@@ -7,7 +7,7 @@ Simply clone the repository to your local machine.
 
 ## Instructions
 Place the .cs files you wish to be styled in the Test folder (name will be changed later). Then, simply
-run Replacer.py at the command line (ie. python replacer.py).
+run Replacer.py at the command line (ie. `python replacer.py` ).
 
 All .cs files in the Test folder will be copied and styled, with the output
 being copied to the Results folder.
