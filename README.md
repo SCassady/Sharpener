@@ -14,3 +14,5 @@ being copied to the Results folder.
 
 ## Future changes
 I'm planning on using this script for a simple styling SPA. Also, I may add more styling or linting functionality.
+
+[![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
